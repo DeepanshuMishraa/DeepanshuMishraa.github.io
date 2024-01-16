@@ -8,10 +8,10 @@ const About = () => {
             <p className='text-4xl font-bold inline border-b-4'>About</p>
         </div>
         <p className='text-xl mt-20'>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloremque, fugit provident mollitia a quae animi, voluptates, libero amet error consequatur officia illum iure esse quibusdam facere perferendis expedita non cumque culpa dolorum sed! Vitae maiores ipsam, laudantium, blanditiis sed fugit unde sint, dolores impedit repudiandae eveniet optio temporibus natus inventore!
+        Passionate about coding and driven by a love for technology, I'm Deepanshu Mishra—a proficient developer with expertise in React.js, CSS, HTML, and Python. Dedicated to creating impactful solutions, I am currently exploring the realm of backend development and mastering Rust. Join me on this exciting journey of continuous learning and innovation.
         </p>
         <br/>
-        <p className='text-xl'>Lorem ipsum dolor sit amet, consectetur adipisicing elit. At non dignissimos esse facilis aliquid? Illum id beatae voluptatibus laboriosam recusandae, dolorem qui corrupti unde dignissimos nobis quo veritatis facilis necessitatibus repellat nisi ut iure delectus quibusdam, soluta cumque laborum. Aliquid deserunt vero doloremque, ratione non similique sequi iste ipsa quia.</p>
+        <p className='text-xl py-4'>Since childhood, my fascination with tech and computers has fueled my passion for coding. Always envisioning myself solving complex algorithms, I've dreamt of contributing to groundbreaking advancements—perhaps even taking us to space. I thrive on turning imaginative ideas into reality, making an indelible mark on the world of technology.</p>
       </div>
     </div>
   )

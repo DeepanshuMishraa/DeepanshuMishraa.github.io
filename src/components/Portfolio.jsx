@@ -1,12 +1,13 @@
 import React from 'react'
 import icon from '../assets/icon.jpg'
 import logo from '../assets/logo.png'
+import drip from '../assets/drip.png'
 
 const Portfolio = () => {
     const portfolios = [
         {
             id:1,
-            src:icon
+            src:drip
         },
         {
             id:2,

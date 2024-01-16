@@ -1,6 +1,10 @@
 import React from 'react'
 import html from '../assets/html.png'
 import css from '../assets/css.png'
+import github from '../assets/github.png'
+import js from '../assets/js.png'
+import react from '../assets/react.png'
+import python from '../assets/python.png'
 const Experience = () => {
 
     const techs = [
@@ -11,23 +15,35 @@ const Experience = () => {
             style:'shadow-orange-500'
         },
         {
-            id:1,
-            src:html,
-            title:'HTML',
-            style:'shadow-orange-500'
+            id:2,
+            src:github,
+            title:'Github',
+            style:'shadow-gray-500'
         },
         {
-            id:2,
+            id:3,
             src:css,
             title:'CSS',
             style:'shadow-blue-500'
         },
         {
-            id:3,
-            src:html,
-            title:'HTML',
-            style:'shadow-orange-500'
+            id:4,
+            src:react,
+            title:'React',
+            style:'shadow-blue-500'
         },
+        {
+            id:5,
+            src:js,
+            title:'Javascript',
+            style:'shadow-yellow-500'
+        },
+        {
+            id:6,
+            src:python,
+            title:'Python',
+            style:'shadow-green-500'
+        },  
     ]
   return (
     <div name='experience' className='bg-gradient-to-b from-black to-gray-800 w-full h-screen' >

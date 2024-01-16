@@ -11,7 +11,7 @@ const SocialLinks = () => {
             LinkedIn <FaLinkedin size={30}/>
             </>
         ),
-        href : "https://www.linkedin.com",
+        href : "https://www.linkedin.com/in/deepanshu-mishra-500a2a155/",
         style: 'rounded-tr-md'
     },
     {
@@ -31,7 +31,7 @@ const SocialLinks = () => {
             Twitter <FaTwitter size={30}/>
             </>
         ),
-        href : "www.twitter.com/deepanshudipxsy",
+        href : "https://twitter.com/DeepanshuDipxsy",
        
     },
     {
@@ -41,7 +41,7 @@ const SocialLinks = () => {
             Resume <BsFillPersonLinesFill size={30}/>
             </>
         ),
-        href : "googledriv.com",
+        href : "https://drive.google.com/file/d/13wRBhgoLti2gTEU15UeBnudwweQ1f-qq/view?usp=sharing",
         style: 'rounded-br-md',
         download:true
     },
